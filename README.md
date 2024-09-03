@@ -1,4 +1,5 @@
 ## Leitura e Produção de textos
+###### Caio Vilarouca | RGM:40864944
 <!-- Texto de autobiografia -->
 <br />
 <div align="center">
@@ -38,5 +39,13 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Ressignificar crenças negativas sobre a escrita pode revolucionar como você se relaciona com as palavras. Às vezes, achamos que não temos     
      talento, mas o segredo está na prática constante e no aprendizado contínuo. Nossas ideias podem parecer comuns, mas é o nosso jeito de contar a história que faz a          diferença. Erros são parte do processo e oportunidades para evoluir, não sinais de fracasso. A escrita não é um dom raro; é uma habilidade que você desenvolve com     
      esforço e tempo. Mesmo que seu texto não seja publicado, ele ainda tem um valor imenso como expressão pessoal. Ver a escrita como uma jornada divertida, e não um           fardo, pode aliviar a pressão e aumentar sua confiança. Sempre haverá alguém que se conecta com o que você tem a dizer, e sua voz é valiosa.</p>
+</div>
+<!--Texto monte Castelo-->
+<br />
+<div align="center"><h2><stong>Monte Castelo</stong></h2></div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Ainda que falasse as línguas dos pássaros e das árvores, e não tivesse paz, seria como o vento que passa ou como a folha que cai.</p>
+  <p>&nbsp;&nbsp;&nbsp;E ainda que tivesse o dom de voar, e conhecesse todos segredos da floresta, e todo a sabedoria da natureza, e ainda que tivesse todo a calma 
+     de maneira tal que acalmasse as tempestades, e não tivesse paz, nada seria.</p>
 </div>
 
