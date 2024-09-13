@@ -10,6 +10,14 @@
      Além de amar tudo que é tech, também curto muito ler livros sobre pregações. Acho que misturar conhecimento técnico com reflexões sobre a condição humana me ajuda a           enxergar o mundo de forma mais completa e equilibrada. O que realmente me motiva é essa busca por entender e aprimorar o mundo da programação. Vejo a programação como um      grande quebra-cabeça onde cada solução traz um pouco mais de clareza para o quadro geral.</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Estou sempre atrás de novos desafios e aprendizados porque acredito que, para criar algo novo, primeiro preciso entender o que ainda não conheço.      Essa vontade de  aprender e resolver problemas é o que me move a seguir nessa área e a buscar sempre mais.</p>
 </div>
+<!-- Coesão textual - expansão do texto de Carolina Maria de Jesus -->
+<br />
+<div align="center">
+  <h2><strong>Coesão textual - expansão do texto de Carolina Maria de Jesus</strong></h2>
+</div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;A vida de Carolina Maria de Jesus na favela é marcada por dificuldades constantes, e seu principal desejo é alcançar a paz. Ela enfrenta um cenário desolador devido à falta de apoio governamental e às condições de trabalho inadequadas. O governo não oferece assistência efetiva, e seu trabalho não cobre as necessidades básicas da família. Essa situação reflete um sistema que falha em atender às necessidades dos menos favorecidos e destaca a necessidade urgente de reformas sociais. Apesar de suas lutas diárias, ela mantém a esperança de que, um dia, a situação possa melhorar.</p>
+</div>
 <!--Texto de 3 palavras -->
 <br />
 <div align="center">
