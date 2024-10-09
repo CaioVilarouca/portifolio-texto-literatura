@@ -56,4 +56,14 @@
   <p>&nbsp;&nbsp;&nbsp;E ainda que tivesse o dom de voar, e conhecesse todos segredos da floresta, e todo a sabedoria da natureza, e ainda que tivesse todo a calma 
      de maneira tal que acalmasse as tempestades, e não tivesse paz, nada seria.</p>
 </div>
-
+<!--Robõ -->
+<br />
+<div align="center"><h2><stong>Robô de plantio de sementes movido a energia solar ajuda no reflorestamento
+da Amazônia</stong></h2></div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;O robô YuMi, criado pela ABB Robotics, está sendo usado em um projeto no Peru para ajudar a replantar a Amazônia, que está ameaçada pela mineração e pela exploração ilegal de madeira. Esse robô consegue plantar até 600 sementes em uma manhã e funciona com energia solar. A ideia é juntar a tecnologia com o conhecimento das comunidades locais para combater a destruição da floresta. Especialistas ressaltam que a Amazônia é crucial na luta contra as mudanças climáticas, pois absorve muito dióxido de carbono.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;O uso do robô YuMi no reflorestamento é um passo importante na luta contra o desmatamento. Essa combinação de tecnologia e trabalho comunitário pode tornar o replantio mais eficiente e efetivo.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Utilizar robôs para plantar árvores é uma ideia inovadora e mostra como a tecnologia pode ajudar a proteger o meio ambiente. Além de acelerar o plantio, essa iniciativa também envolve as comunidades locais, dando a elas a chance de aprender e usar novas ferramentas para preservar a floresta.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Um aspecto importante é que o robô pode operar em lugares difíceis de alcançar, aumentando os esforços de reflorestamento. Além disso, a colaboração entre tecnologia e as pessoas que vivem na região é fundamental para cuidar melhor da natureza, mostrando que podemos resolver problemas ambientais complexos ao unir diferentes saberes e recursos.
+</p>
+</div>
