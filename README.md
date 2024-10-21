@@ -67,3 +67,11 @@ da Amazônia</stong></h2></div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Um aspecto importante é que o robô pode operar em lugares difíceis de alcançar, aumentando os esforços de reflorestamento. Além disso, a colaboração entre tecnologia e as pessoas que vivem na região é fundamental para cuidar melhor da natureza, mostrando que podemos resolver problemas ambientais complexos ao unir diferentes saberes e recursos.
 </p>
 </div>
+<!--Crônico -->
+<br />
+<div align="center"><h2><stong>Um Homem Que Virou Rato e Seu Desejo por Queijos</stong></h2></div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Era uma vez um homem comum, preso à rotina até que, após uma noite de insônia e queijos, despertou transformado em rato. No início, desesperado, logo sentiu um insaciável desejo por queijo.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Explorando a cidade à noite, descobriu a riqueza dos queijos: do brie ao gorgonzola, cada um era uma nova experiência. A transformação, antes uma maldição, tornou-se uma libertação, permitindo-lhe apreciar a vida de uma forma que nunca imaginou.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;O homem-rato aprendeu que o verdadeiro prazer está nas pequenas coisas e, assim, se tornou um gourmet de queijos, redescobrindo a alegria de viver.</p>
+</div>
