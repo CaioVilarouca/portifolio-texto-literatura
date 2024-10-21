@@ -74,4 +74,5 @@ da Amazônia</stong></h2></div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Era uma vez um homem comum, preso à rotina até que, após uma noite de insônia e queijos, despertou transformado em rato. No início, desesperado, logo sentiu um insaciável desejo por queijo.</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Explorando a cidade à noite, descobriu a riqueza dos queijos: do brie ao gorgonzola, cada um era uma nova experiência. A transformação, antes uma maldição, tornou-se uma libertação, permitindo-lhe apreciar a vida de uma forma que nunca imaginou.</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;O homem-rato aprendeu que o verdadeiro prazer está nas pequenas coisas e, assim, se tornou um gourmet de queijos, redescobrindo a alegria de viver.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;A transformação trouxe-lhe uma nova perspectiva. Não importava a forma que assumira; a verdadeira essência do prazer estava em se permitir experimentar o que a vida tinha de melhor. Assim, o homem que virou rato se tornou um gourmet de queijos, viajando por um mundo que nunca imaginou ser seu, redescobrindo o prazer de viver.</p>
 </div>
