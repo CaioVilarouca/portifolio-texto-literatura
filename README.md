@@ -76,3 +76,6 @@ da Amazônia</stong></h2></div>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;O homem-rato aprendeu que o verdadeiro prazer está nas pequenas coisas e, assim, se tornou um gourmet de queijos, redescobrindo a alegria de viver.</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;A transformação trouxe-lhe uma nova perspectiva. Não importava a forma que assumira; a verdadeira essência do prazer estava em se permitir experimentar o que a vida tinha de melhor. Assim, o homem que virou rato se tornou um gourmet de queijos, viajando por um mundo que nunca imaginou ser seu, redescobrindo o prazer de viver.</p>
 </div>
+
+
+
