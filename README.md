@@ -63,6 +63,15 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;A relação entre o perfil da população brasileira atingida pelas desigualdades sociais nas cidades e os fenômenos de risco socioambiental é complexa e interconectada. A maioria da população vulnerável, que vive em áreas periféricas, enfrenta uma série de desvantagens socioeconômicas, como baixos níveis de renda, acesso limitado a serviços essenciais (saúde, educação e saneamento) e infraestrutura inadequada. Essa condição torna esses grupos mais suscetíveis a riscos ambientais, como enchentes, deslizamentos de terra e poluição.</p>
   <p>&nbsp;&nbsp;&nbsp;&nbsp;Para minimizar os riscos socioambientais em bairros periféricos com condições habitacionais precárias, duas propostas que envolvem ação governamental e participação da comunidade são:O governo deve implementar um programa de regularização fundiária que permita que moradores de áreas informais obtenham a titularidade de suas propriedades. Isso deve ser acompanhado por investimentos em melhorias habitacionais, como a construção de saneamento básico, acesso à água potável e infraestrutura de transporte. A participação da comunidade é fundamental para identificar as principais necessidades e garantir que as soluções sejam adequadas ao contexto local.</p>
 </div>
+<!--BEIJO-->
+<br />
+<div align="center"><h2><stong>B E I J O</stong></h2></div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Noemi Jaffe, em seu texto, critica o uso de abreviações como “bj”, “vc” e “abç”, defendendo a importância de palavras completas que carregam significados afetivos, como “beijo” e “abraço”. Para ela, essas palavras transmitem emoção e autenticidade, enquanto as abreviações despersonalizam a comunicação.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Jaffe argumenta que a economia de tempo proporcionada pelas abreviações é insignificante e que elas desvalorizam a função fática da linguagem, que estabelece conexões humanas. Ela considera expressões como “vc” desrespeitosas, pois reduzem a individualidade da pessoa.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;A autora conclui afirmando seu desejo de preservar a riqueza das palavras e o calor nas interações, optando sempre por formas completas, mesmo em um mundo que prioriza a comunicação rápida.</p>
+
+</div>
 <!--Robõ -->
 <br />
 <div align="center"><h2><stong>Robô de plantio de sementes movido a energia solar ajuda no reflorestamento
