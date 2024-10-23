@@ -56,6 +56,13 @@
   <p>&nbsp;&nbsp;&nbsp;E ainda que tivesse o dom de voar, e conhecesse todos segredos da floresta, e todo a sabedoria da natureza, e ainda que tivesse todo a calma 
      de maneira tal que acalmasse as tempestades, e não tivesse paz, nada seria.</p>
 </div>
+<!--ENADE-->
+<br />
+<div align="center"><h2><stong>ENADE</stong></h2></div>
+<div align="justify">
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;A relação entre o perfil da população brasileira atingida pelas desigualdades sociais nas cidades e os fenômenos de risco socioambiental é complexa e interconectada. A maioria da população vulnerável, que vive em áreas periféricas, enfrenta uma série de desvantagens socioeconômicas, como baixos níveis de renda, acesso limitado a serviços essenciais (saúde, educação e saneamento) e infraestrutura inadequada. Essa condição torna esses grupos mais suscetíveis a riscos ambientais, como enchentes, deslizamentos de terra e poluição.</p>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;Para minimizar os riscos socioambientais em bairros periféricos com condições habitacionais precárias, duas propostas que envolvem ação governamental e participação da comunidade são:O governo deve implementar um programa de regularização fundiária que permita que moradores de áreas informais obtenham a titularidade de suas propriedades. Isso deve ser acompanhado por investimentos em melhorias habitacionais, como a construção de saneamento básico, acesso à água potável e infraestrutura de transporte. A participação da comunidade é fundamental para identificar as principais necessidades e garantir que as soluções sejam adequadas ao contexto local.</p>
+</div>
 <!--Robõ -->
 <br />
 <div align="center"><h2><stong>Robô de plantio de sementes movido a energia solar ajuda no reflorestamento
